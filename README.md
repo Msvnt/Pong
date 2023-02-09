@@ -2,6 +2,10 @@
 
 ![banner ilustrando o jogo pong](https://user-images.githubusercontent.com/120539315/212541793-9e99b7ed-9ea4-4f8d-acfd-d2a6ec2a1799.png)
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=DONE&color=SUCCESS&style=for-the-badge"/>
+</p>
+
 # 🔨 Funcionalidades do projeto
 
 O jogo funciona da seguinte maneira: use as teclas **W** e **S** para movimentar a sua raquete esquerda e evitar que seu oponente marque pontos enquanto tenta marcar seus próprios pontos.
